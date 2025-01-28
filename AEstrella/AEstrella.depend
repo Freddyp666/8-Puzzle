@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1656105109 source:c:\users\stalin\documents\github\aestrella\aestrella\main.cpp
+	<iostream>
+	"cabecera.h"
+
+1656113351 c:\users\stalin\documents\github\aestrella\aestrella\cabecera.h
+	<iostream>
+
+1656970213 source:c:\users\hp\desktop\inteligencia artificial\codigo c++\trabajogrupal\aestrella\main.cpp
+	<iostream>
+	"cabecera.h"
+
+1658501810 c:\users\hp\desktop\inteligencia artificial\codigo c++\trabajogrupal\aestrella\cabecera.h
+	<iostream>
+	<time.h>
+
